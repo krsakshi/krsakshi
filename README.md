@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Machine Learning and UI desogn. <br>
+- 🌱 I’m currently learning Machine Learning and UI design. <br>
 - 💻 Currently working on: It's secret! 😯 <br>
 - 💬 Ask me about programming <br>
 - 📬 Reach me: via Twitter <br>
