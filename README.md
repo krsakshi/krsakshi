@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">B.Tech Final Year Student at KIIT, Bhubaneswar, Odisha.</h3>
+<h3 align="center">B.Tech Final Year Student at KIIT.</h3>
 
 <div align="center">
   <img alt="Coding" height="300" width="450" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
 </div>
+
+<h2>About me</h2>
+    🌱 I’m currently learning Machine Learning and UI design.
+    <br>💻 Currently working on: It's secret! 😯
+    <br>💬 Ask me about programming
+    <br>📬 Reach me: via Twitter
+    <br>⚡ Quote: The future belongs to those who believe in the beauty of their dreams.
+
+<br><br>
 
 <h2 hr="none">❤️Talk to me about:</h2>
     - Machine Learning
