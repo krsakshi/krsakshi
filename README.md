@@ -1,14 +1,11 @@
-<img height="300" width="1000" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
-
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
+<h3 align="center">B.Tech Final Year Student at KIIT, Bhubaneswar, Odisha.</h3>
 
-<h3 align="center">B.Tech Final Year Student at KIIT.</h3>
-<img align="right" alt="Coding" height="300" width="450" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
+<div align="center">
+  <img alt="Coding" height="300" width="450" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
+</div>
 
-<br>
-<br>
-
-<h2>❤️Talk to me about:</h2>
+<h2 hr="none">❤️Talk to me about:</h2>
     - Machine Learning
     <br>
     - Web Development
@@ -18,8 +15,6 @@
     - Artificial Intelligence
     <br>
     - Graphic Designing
-<br>
-<br>
 <br>
 <br>
 
