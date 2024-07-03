@@ -28,11 +28,19 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+- <i>Languages:   </i>C, C++, Java, Python, JavaScript, PHP<br>
+- <i>Frameworks:  </i> React[in Progress]<br>
+- <i>Databases:</i> MySQL<br>
+- <i>Web Technologies:</i> HTML, CSS<br>
+- <i>Version Control System:</i> Git<br>
+
+<br>
+<br>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
