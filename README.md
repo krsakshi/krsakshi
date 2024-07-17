@@ -24,6 +24,8 @@
     - Artificial Intelligence
     <br>
     - Graphic Designing
+    <br>
+    - Frontend Development
 <br>
 <br>
 
