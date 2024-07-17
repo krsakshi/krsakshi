@@ -94,4 +94,8 @@
     <a href="mailto:thekrsakshi@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+
+[![](https://visitcount.itsvg.in/api?id=krsakshi&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=5B74F7&center=true&vCenter=true&random=false&width=647&height=60&lines=Thank+You+for+visiting+!;Hope+to+see+you+again+%F0%9F%98%81;Dont+forget+to+follow!" alt="Typing SVG" /></a></h3>
 </div>
