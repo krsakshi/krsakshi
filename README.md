@@ -2,7 +2,8 @@
 <h3 align="center">B.Tech Final Year Student at KIIT.</h3>
 
 <div align="center">
-  <img alt="Coding" height="300" width="450" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
+  <img alt="Coding" height="300" width="450" 
+    src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
 </div>
 
 <h2>About me</h2>
