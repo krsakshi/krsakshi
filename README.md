@@ -6,6 +6,11 @@
     src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
 </div>
 
+<h2>🌐 Socials:</h2>
+<a href="https://www.linkedin.com/in/sakshi1711/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 <h2>About me</h2>
     🌱 I’m currently learning Machine Learning and UI design.
     <br>💻 Currently working on: It's secret! 😯
@@ -92,6 +97,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krsakshi&show_icons=true&locale=en" alt="krsakshi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krsakshi&" alt="krsakshi" /></p>
+
+<h2>🏆 GitHub Trophies </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=krsakshi&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 
 <h2>📫 How to reach me:</h2>
 <div align="center">
