@@ -10,6 +10,10 @@
 <a href="https://www.linkedin.com/in/sakshi1711/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://krsakshi.vercel.app">
+  <img src="https://img.shields.io/badge/Website-%230077B5.svg?logo=google-chrome&logoColor=white" alt="Website">
+</a>
+
 
 <h2>About me</h2>
     🌱 I’m currently learning Machine Learning and UI design.
@@ -101,6 +105,9 @@
 <h2>🏆 GitHub Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=krsakshi&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 
+<h2>📈 Contribution Graph</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krsakshi&bg_color=000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true" alt="Sakshi Contribution Graph">
+
 <h2>📫 How to reach me:</h2>
 <div align="center">
     <a href="mailto:thekrsakshi@gmail.com">
@@ -108,6 +115,7 @@
     </a>
 
 [![](https://visitcount.itsvg.in/api?id=krsakshi&icon=0&color=9)](https://visitcount.itsvg.in)
+
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=008000&center=true&vCenter=true&random=false&width=647&height=60&lines=Thank+You+for+visiting+!;Hope+to+see+you+again+%F0%9F%98%81;Dont+forget+to+follow!" alt="Typing SVG" /></a></h3>
 </div>
